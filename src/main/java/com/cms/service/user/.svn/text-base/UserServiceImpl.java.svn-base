@@ -1,0 +1,19 @@
+package com.cms.service.user;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.cms.dao.user.UserDao;
+import com.cms.model.user.User;
+
+public class UserServiceImpl implements UserService {
+    
+    @Autowired
+    UserDao userDao;
+
+    @Override
+    public boolean saveUser(User user) {
+        User userR = userDao.saveUser(user);
+        return userR!=null?true:false;
+    }
+
+}

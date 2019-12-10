@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/cms_project/!svn/ver/14/src/main/webapp/WEB-INF/jsp
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/cms_project/!svn/ver/7/src/main/webapp/WEB-INF/jsp/index.jsp
+END
+404.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cms_project/!svn/ver/15/src/main/webapp/WEB-INF/jsp/404.jsp
+END
+login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cms_project/!svn/ver/15/src/main/webapp/WEB-INF/jsp/login.jsp
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/cms_project/!svn/ver/14/src/main/webapp/WEB-INF/jsp/employee
+END
+404.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cms_project/!svn/ver/7/src/main/webapp/WEB-INF/jsp/employee/404.jsp
+END
+header.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cms_project/!svn/ver/7/src/main/webapp/WEB-INF/jsp/employee/header.jsp
+END
+home.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cms_project/!svn/ver/7/src/main/webapp/WEB-INF/jsp/employee/home.jsp
+END
+login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cms_project/!svn/ver/7/src/main/webapp/WEB-INF/jsp/employee/login.jsp
+END
+side_menu.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cms_project/!svn/ver/7/src/main/webapp/WEB-INF/jsp/employee/side_menu.jsp
+END
+footer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cms_project/!svn/ver/7/src/main/webapp/WEB-INF/jsp/employee/footer.jsp
+END
+headtags.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cms_project/!svn/ver/14/src/main/webapp/WEB-INF/jsp/employee/headtags.jsp
+END
